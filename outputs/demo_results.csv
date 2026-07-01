@@ -1,0 +1,8 @@
+tic_id,true_class,predicted,correct,confidence,snr,sde,fap
+12345,planet_transit,planet_transit,True,0.58,356.48,55.08,
+77777,planet_transit,planet_transit,True,0.5088,486.27,56.21,
+54321,eclipsing_binary,eclipsing_binary,True,0.4655,5855.38,46.25,
+98765,eclipsing_binary,eclipsing_binary,True,0.4655,11434.77,49.64,
+99999,blend,planet_transit,False,0.5088,545.54,54.64,
+11111,noise,noise,True,0.85,0.0,0.0,
+22222,noise,noise,True,0.85,0.0,0.0,
